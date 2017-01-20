@@ -1,4 +1,4 @@
-# Pääotsikko
+﻿# Pääotsikko :)
 
 ![](https://images.pexels.com/photos/160438/ankle-socks-children-socks-knitted-greeting-160438.jpeg?w=940&h=650&auto=compress&cs=tinysrgb)
 
